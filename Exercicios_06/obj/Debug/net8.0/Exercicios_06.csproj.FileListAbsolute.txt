@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\bin\Debug\net8.0\Exercicios_06.exe
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\bin\Debug\net8.0\Exercicios_06.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\bin\Debug\net8.0\Exercicios_06.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\bin\Debug\net8.0\Exercicios_06.dll
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\bin\Debug\net8.0\Exercicios_06.pdb
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\Exercicios_06.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\Exercicios_06.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\Exercicios_06.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\Exercicios_06.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\Exercicios_06.dll
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\refint\Exercicios_06.dll
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\Exercicios_06.pdb
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\Exercicios_06.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\Exercicios_06\obj\Debug\net8.0\ref\Exercicios_06.dll
